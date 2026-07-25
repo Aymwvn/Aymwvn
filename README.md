@@ -193,22 +193,6 @@ Advised on information security practices for a financial services environment h
 `Information Security` `Access Control` `Risk Assessment`
 
 ---
-
-## 🟣 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🎓 Bachelor's Degree in Cybersecurity | Faculty Ibn Zohr, Ouarzazate — Nov 2023 to June 2026 |
-| 🛡️ 40+ Vulnerabilities Remediated | ISTAHT web platform security hardening engagement |
-| 🏗️ Built a Full Production Cyber Range | BrovanaRange — self-built, self-deployed offensive security training platform |
-| 🤝 8 Industry Certifications | Across IBM, Fortinet, Cisco, and SkillFront |
-
-</div>
-
----
-
 ## 🟣 Certifications
 
 **IBM**
