@@ -1,36 +1,40 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:4C1D95&height=220&section=header&text=AYMANE%20BOUALAM&fontSize=48&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Penetration%20Tester%20%7C%20Security%20Engineer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05131F,50:0C4A6E,100:075985&height=220&section=header&text=AYMANE%20BOUALAM&fontSize=48&fontColor=BAE6FD&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Penetration%20Tester%20%7C%20Security%20Engineer&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Offensive+Security+%7C+Web+App+Pentesting;Building+Secure+Cyber+Range+Infrastructure;OWASP+%7C+NIST+%7C+ISO%2FIEC+27001;AI-Assisted+Security+Tooling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Offensive+Security+%7C+Web+App+Pentesting;Building+Secure+Cyber+Range+Infrastructure;OWASP+%7C+NIST+%7C+ISO%2FIEC+27001;AI-Assisted+Security+Tooling" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Bachelor's Degree](https://img.shields.io/badge/Cybersecurity-Bachelor's%20Degree-4C1D95?style=flat-square&logo=google-scholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Rabat%2C%20Morocco-6D28D9?style=flat-square&logo=googlemaps&logoColor=white)
+![Bachelor's Degree](https://img.shields.io/badge/Cybersecurity-Bachelor's%20Degree-075985?style=flat-square&logo=google-scholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Rabat%2C%20Morocco-0284C7?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aymwvn.me-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white)](https://aymwvn.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymane-boualam/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a1ymane.boualam@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aymwvn-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aymwvn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aymwvn.me-38BDF8?style=for-the-badge&logo=firefox&logoColor=white)](https://aymwvn.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymane-boualam/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-0284C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a1ymane.boualam@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aymwvn-0369A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aymwvn)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aymwvn&style=flat-square&color=8b5cf6&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/aymwvn?style=flat-square&color=7c3aed&label=Followers)
-![Stars](https://img.shields.io/github/stars/aymwvn?style=flat-square&color=6d28d9&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=aymwvn&style=flat-square&color=38BDF8&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/aymwvn?style=flat-square&color=0EA5E9&label=Followers)
+![Stars](https://img.shields.io/github/stars/aymwvn?style=flat-square&color=0284C7&label=Stars)
 
 </div>
 
 ---
 
-## 🟣 About Me
+## 🔵 About Me
 
-I'm **Aymane Boualam**, a Cybersecurity Analyst and Penetration Tester based in Morocco, focused on offensive security, secure infrastructure design, and building tooling that makes security testing faster and more precise.
+I'm **Aymane Boualam**, a Cybersecurity Analyst and Penetration Tester based in Rabat, Morocco, focused on offensive security, secure infrastructure design, and building tooling that makes security testing faster and more precise.
+
+My work spans **web application penetration testing**, **security hardening**, and **detection engineering**, backed by hands-on infrastructure work across Linux, Windows, AWS, Azure, and virtualized lab environments. I approach security the way an engineer approaches a product — through threat modeling, systematic testing (OWASP-aligned), root-cause remediation, and clear technical reporting that stakeholders can act on.
+
+Alongside offensive security, I build **full-stack and AI-assisted tooling** — from a self-hosted cyber range platform to an AI-powered pentest co-pilot — combining Python, FastAPI, React, and LLM APIs to automate recon correlation, vulnerability intelligence, and evidence-based reporting.
 
 ```yaml
 Role: Cybersecurity Analyst & Penetration Tester
@@ -43,7 +47,7 @@ Mindset: Build it secure. Break it properly. Document it clearly.
 
 ---
 
-## 🟣 Tech Stack
+## 🔵 Tech Stack
 
 <div align="center">
 
@@ -63,30 +67,18 @@ Mindset: Build it secure. Break it properly. Document it clearly.
 
 ![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) ![Windows](https://skillicons.dev/icons?i=windows) ![Wireshark](https://skillicons.dev/icons?i=wireshark) ![VMware](https://skillicons.dev/icons?i=vmware) ![VirtualBox](https://skillicons.dev/icons?i=virtualbox)
 
-![Nmap](https://img.shields.io/badge/Nmap-6D28D9?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-7C3AED?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-8B5CF6?style=flat-square&logo=burpsuite&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-6D28D9?style=flat-square&logo=splunk&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-7C3AED?style=flat-square&logo=openssl&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-4C1D95?style=flat-square&logo=suricata&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0284C7?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0EA5E9?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-38BDF8?style=flat-square&logo=burpsuite&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-0284C7?style=flat-square&logo=splunk&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-0EA5E9?style=flat-square&logo=openssl&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-075985?style=flat-square&logo=suricata&logoColor=white)
 
 </div>
 
 ---
 
-## 🟣 AI / Security Automation Expertise
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **AI-Assisted Recon & Correlation** | ⭐⭐⭐⭐☆ | Parsing and cross-tool correlation of Nmap, Gobuster, Whatweb, ffuf, and Nikto output using LLM-driven analysis |
-| **Vulnerability Intelligence** | ⭐⭐⭐⭐☆ | NVD-based CVE lookups, CVSS scoring, and MITRE ATT&CK technique mapping automated via API integration |
-| **Automated Reporting** | ⭐⭐⭐⭐⭐ | Evidence tracking (screenshots/HTTP/PoC) with auto-generated DOCX, PDF, and Markdown pentest reports |
-| **LLM Integration (Claude API)** | ⭐⭐⭐⭐☆ | Building CLI tools that combine local or cloud-based LLMs with real security tool output |
-| **Detection Engineering** | ⭐⭐⭐☆☆ | Custom Suricata/Zeek alert rules for IDS monitoring and network exposure validation |
-
----
-
-## 🟣 Featured Projects
+## 🔵 Featured Projects
 
 <details>
 <summary><b>🛡️ BrovanaRange — Secure Open-Source Cyber Range Platform</b></summary>
@@ -166,34 +158,30 @@ Used as a structured exercise to practice professional report writing alongside 
 
 ---
 
-## 🟣 Experience
+## 🔵 Experience
 
 **Penetration Tester (Internship)** · Institut Spécialisé de Technologie Appliquée Hôtelière et Touristique de Ouarzazate
 `March 2026 – June 2026`
 
-Assessed a live web platform end-to-end using OWASP-based methodology, then remediated the issues found.
+- Assessed a live web platform using OWASP-based methodology across auth, sessions, uploads, and API security
+- Fixed 40+ vulnerabilities including stored XSS, insecure cookies, and unsafe uploads
+- Validated fixes using Burp Suite, ffuf, Docker, and PostgreSQL CLI
 
-- Tested authentication, session management, access control, input validation, file uploads, API security, and Docker deployment configuration
-- Fixed 40+ vulnerabilities including weak credentials, brute-force exposure, insecure cookies, stored XSS, unsafe uploads, exposed API docs, and misconfigured deployments
-- Used Burp Suite, curl, ffuf, Docker, and PostgreSQL CLI alongside source-code review to validate every fix with technical evidence
-
-`Web App Security` `OWASP` `Burp Suite` `Docker` `PostgreSQL` `Vulnerability Remediation`
+`Web App Security` `OWASP` `Burp Suite` `Docker`
 
 <br/>
 
 **Cybersecurity Consultant (Internship)** · AbdeSammad Accountant
 `January 2023 – July 2023`
 
-Advised on information security practices for a financial services environment handling sensitive client data.
-
-- Implemented security best practices to protect sensitive financial and client data
-- Reviewed user access permissions and data handling procedures to ensure confidentiality
-- Identified risks related to account management, data storage, and information sharing
+- Implemented security best practices for sensitive financial and client data
+- Reviewed access permissions and identified data-handling risks
 
 `Information Security` `Access Control` `Risk Assessment`
 
 ---
-## 🟣 Certifications
+
+## 🔵 Certifications
 
 **IBM**
 
@@ -212,64 +200,44 @@ Advised on information security practices for a financial services environment h
 
 **SkillFront**
 
-![SkillFront](https://img.shields.io/badge/ISO%2FIEC%2027001%20Information%20Security%20Associate-Dec%202025-6D28D9?style=flat-square&logo=iso&logoColor=white)
-![SkillFront](https://img.shields.io/badge/ISO%2FIEC%2020000%20IT%20Service%20Management%20Associate-Oct%202025-6D28D9?style=flat-square&logo=iso&logoColor=white)
+![SkillFront](https://img.shields.io/badge/ISO%2FIEC%2027001%20Information%20Security%20Associate-Dec%202025-0284C7?style=flat-square&logo=iso&logoColor=white)
+![SkillFront](https://img.shields.io/badge/ISO%2FIEC%2020000%20IT%20Service%20Management%20Associate-Oct%202025-0284C7?style=flat-square&logo=iso&logoColor=white)
 
 ---
 
-## 🟣 GitHub Analytics
+## 🔵 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aymwvn&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aymwvn&theme=radical&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aymwvn&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=04101C&title_color=7DD3FC&icon_color=38BDF8&text_color=BAE6FD" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aymwvn&theme=algolia&hide_border=true&background=04101C&ring=38BDF8&fire=7DD3FC&currStreakLabel=BAE6FD" />
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymwvn&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymwvn&layout=compact&theme=algolia&hide_border=true&bg_color=04101C&title_color=7DD3FC&text_color=BAE6FD" />
 
 </div>
 
 ---
 
-## 🟣 GitHub Trophies
+## 🔵 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aymwvn&theme=radical&no-frame=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=aymwvn&theme=algolia&no-frame=true&margin-w=10&column=7" />
 
 </div>
 
 ---
 
-## 🟣 Contribution Activity
+## 🔵 Connect With Me
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aymwvn&theme=redical&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true" />
-
-</div>
-
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aymwvn/aymwvn/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 🟣 Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-a1ymane.boualam%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a1ymane.boualam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aymane--boualam-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymane-boualam/)
-[![GitHub](https://img.shields.io/badge/GitHub-aymwvn-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aymwvn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-aymwvn.me-4C1D95?style=for-the-badge&logo=firefox&logoColor=white)](https://aymwvn.me)
+[![Gmail](https://img.shields.io/badge/Gmail-a1ymane.boualam%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a1ymane.boualam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aymane--boualam-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymane-boualam/)
+[![GitHub](https://img.shields.io/badge/GitHub-aymwvn-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aymwvn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aymwvn.me-075985?style=for-the-badge&logo=firefox&logoColor=white)](https://aymwvn.me)
 
 </div>
 
@@ -279,6 +247,6 @@ Advised on information security practices for a financial services environment h
 
 *"Security isn't a feature you bolt on — it's a discipline you build in from the first line of code."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:2E1065,100:0F0524&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:075985,50:0C4A6E,100:05131F&height=150&section=footer" />
 
 </div>
