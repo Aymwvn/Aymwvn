@@ -216,16 +216,6 @@ Used as a structured exercise to practice professional report writing alongside 
 
 ---
 
-## 🔵 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aymwvn&theme=algolia&no-frame=true&margin-w=10&column=7" />
-
-</div>
-
----
-
 ## 🔵 Connect With Me
 
 <div align="center">
