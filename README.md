@@ -282,30 +282,6 @@ Advised on information security practices for a financial services environment h
 
 ---
 
-## 🟣 Current Focus
-
-```yaml
-Learning:
-  - Advanced Active Directory attack paths & post-exploitation techniques
-  - Cloud security (AWS/Azure) misconfiguration auditing
-  - Applied LLM tooling for security automation
-
-Building:
-  - BrovanaRange: expanding lab catalog and scoring engine
-  - AI-Assisted Pentest Co-Pilot: adding automated exploit-chain suggestions
-
-Exploring:
-  - Detection engineering with Suricata/Zeek at scale
-  - OSCP-aligned offensive security methodology
-
-Open To:
-  - Penetration Testing / Red Team roles
-  - SOC & Security Analyst positions
-  - AppSec engineering collaborations
-```
-
----
-
 ## 🟣 Connect With Me
 
 <div align="center">
