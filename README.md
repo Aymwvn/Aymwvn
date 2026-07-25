@@ -32,10 +32,6 @@
 
 I'm **Aymane Boualam**, a Cybersecurity Analyst and Penetration Tester based in Rabat, Morocco, focused on offensive security, secure infrastructure design, and building tooling that makes security testing faster and more precise.
 
-My work spans **web application penetration testing**, **security hardening**, and **detection engineering**, backed by hands-on infrastructure work across Linux, Windows, AWS, Azure, and virtualized lab environments. I approach security the way an engineer approaches a product — through threat modeling, systematic testing (OWASP-aligned), root-cause remediation, and clear technical reporting that stakeholders can act on.
-
-Alongside offensive security, I build **full-stack and AI-assisted tooling** — from a self-hosted cyber range platform to an AI-powered pentest co-pilot — combining Python, FastAPI, React, and LLM APIs to automate recon correlation, vulnerability intelligence, and evidence-based reporting.
-
 ```yaml
 Role: Cybersecurity Analyst & Penetration Tester
 Focus: Offensive Security / AppSec / Secure Infrastructure
