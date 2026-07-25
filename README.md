@@ -154,29 +154,6 @@ Used as a structured exercise to practice professional report writing alongside 
 
 ---
 
-## 🔵 Experience
-
-**Penetration Tester (Internship)** · Institut Spécialisé de Technologie Appliquée Hôtelière et Touristique de Ouarzazate
-`March 2026 – June 2026`
-
-- Assessed a live web platform using OWASP-based methodology across auth, sessions, uploads, and API security
-- Fixed 40+ vulnerabilities including stored XSS, insecure cookies, and unsafe uploads
-- Validated fixes using Burp Suite, ffuf, Docker, and PostgreSQL CLI
-
-`Web App Security` `OWASP` `Burp Suite` `Docker`
-
-<br/>
-
-**Cybersecurity Consultant (Internship)** · AbdeSammad Accountant
-`January 2023 – July 2023`
-
-- Implemented security best practices for sensitive financial and client data
-- Reviewed access permissions and identified data-handling risks
-
-`Information Security` `Access Control` `Risk Assessment`
-
----
-
 ## 🔵 Certifications
 
 **IBM**
