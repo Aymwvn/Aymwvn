@@ -178,20 +178,7 @@ Used as a structured exercise to practice professional report writing alongside 
 
 ---
 
-## 🔵 GitHub Analytics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aymwvn&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=04101C&title_color=7DD3FC&icon_color=38BDF8&text_color=BAE6FD" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aymwvn&theme=algolia&hide_border=true&background=04101C&ring=38BDF8&fire=7DD3FC&currStreakLabel=BAE6FD" />
-
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymwvn&layout=compact&theme=algolia&hide_border=true&bg_color=04101C&title_color=7DD3FC&text_color=BAE6FD" />
-
-</div>
-
----
 
 ## 🔵 Connect With Me
 
