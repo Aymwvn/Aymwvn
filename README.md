@@ -154,32 +154,6 @@ Used as a structured exercise to practice professional report writing alongside 
 
 ---
 
-## 🔵 Certifications
-
-**IBM**
-
-![IBM](https://img.shields.io/badge/Penetration%20Testing%2C%20Threat%20Hunting%20%26%20Cryptography-Jan%202026-052FAD?style=flat-square&logo=ibm&logoColor=white)
-
-**Fortinet**
-
-![Fortinet](https://img.shields.io/badge/Certified%20Associate%20in%20Cybersecurity-Dec%202025-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Certified%20Fundamentals%20in%20Cybersecurity-Nov%202025-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Jan%202026-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco](https://img.shields.io/badge/Ethical%20Hacker-Feb%202025-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Cisco](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Feb%202025-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-**SkillFront**
-
-![SkillFront](https://img.shields.io/badge/ISO%2FIEC%2027001%20Information%20Security%20Associate-Dec%202025-0284C7?style=flat-square&logo=iso&logoColor=white)
-![SkillFront](https://img.shields.io/badge/ISO%2FIEC%2020000%20IT%20Service%20Management%20Associate-Oct%202025-0284C7?style=flat-square&logo=iso&logoColor=white)
-
----
-
-
-
 ## 🔵 Connect With Me
 
 <div align="center">
