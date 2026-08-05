@@ -113,7 +113,24 @@ A CLI tool that fuses traditional recon tooling with LLM-based analysis (Claude 
 Built to close the gap between raw scan output and a client-ready report — reducing manual triage time while keeping every finding traceable to evidence.
 
 </details>
+<details>
+<summary><b>🏴 CTF Writeups</b></summary>
+<br/>
 
+A structured collection of cybersecurity writeups documenting the methodology, exploitation process, privilege escalation techniques, and lessons learned from Capture The Flag (CTF) challenges across multiple security domains.
+
+| | |
+|---|---|
+| **Stack** | Markdown · Kali Linux · Burp Suite · Nmap · Gobuster · Metasploit · Wireshark |
+| **Coverage** | Web · Pwn · Reverse Engineering · Cryptography · DFIR · OSINT · Steganography · Networking · Hardware · AI |
+| **Methodology** | Reconnaissance → Enumeration → Exploitation → Privilege Escalation → Post-Exploitation → Documentation |
+| **Security Focus** | OWASP, Active Directory, Linux Privilege Escalation, Web Exploitation, Binary Exploitation, Digital Forensics |
+| **Impact** | Demonstrates practical offensive security skills, structured reporting, and reproducible attack methodologies |
+| **Repository** | [github.com/Aymwvn/CTF-Writeups](https://github.com/Aymwvn/CTF-Writeups) |
+
+Each writeup follows a consistent methodology, documenting reconnaissance, attack vectors, exploitation steps, privilege escalation techniques, evidence collection, and remediation insights. The repository serves as both a personal knowledge base and a public portfolio showcasing hands-on offensive security experience.
+
+</details>
 <details>
 <summary><b>🖥️ Enterprise Virtual Lab — System & Network Security Setup</b></summary>
 <br/>
