@@ -13,11 +13,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aymwvn.me-38BDF8?style=for-the-badge&logo=firefox&logoColor=white)](https://aymwvn.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymane-boualam/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-0284C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a1ymane.boualam@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aymwvn-0369A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aymwvn)
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aymwvn&style=flat-square&color=38BDF8&label=Profile+Views)
