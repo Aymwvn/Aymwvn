@@ -24,39 +24,6 @@ Mindset: Build it secure. Break it properly. Document it clearly.
 
 **🎯 Open To:** Penetration Testing roles · SOC / Security Analyst positions · AppSec Engineering · Freelance security assessments · Collaboration on open-source security tooling
 
----
-
-## 🔵 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://skillicons.dev/icons?i=py) ![Bash](https://skillicons.dev/icons?i=bash) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![PHP](https://skillicons.dev/icons?i=php) ![PowerShell](https://skillicons.dev/icons?i=powershell) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
-
-**Frontend**
-
-![React](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)
-
-**Backend & Databases**
-
-![FastAPI](https://skillicons.dev/icons?i=fastapi) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Nginx](https://skillicons.dev/icons?i=nginx)
-
-**Cloud, DevOps & Security Tooling**
-
-![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) ![Windows](https://skillicons.dev/icons?i=windows) ![Wireshark](https://skillicons.dev/icons?i=wireshark) ![VMware](https://skillicons.dev/icons?i=vmware) ![VirtualBox](https://skillicons.dev/icons?i=virtualbox)
-
-![Nmap](https://img.shields.io/badge/Nmap-0284C7?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-0EA5E9?style=flat-square&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-38BDF8?style=flat-square&logo=burpsuite&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-0284C7?style=flat-square&logo=splunk&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-0EA5E9?style=flat-square&logo=openssl&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-075985?style=flat-square&logo=suricata&logoColor=white)
-
-</div>
-
----
-
 ## 🔵 Featured Projects
 
 <details>
