@@ -8,10 +8,6 @@
 
 <br/>
 
-![Bachelor's Degree](https://img.shields.io/badge/Cybersecurity-Bachelor's%20Degree-075985?style=flat-square&logo=google-scholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Rabat%2C%20Morocco-0284C7?style=flat-square&logo=googlemaps&logoColor=white)
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=aymwvn&style=flat-square&color=38BDF8&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/aymwvn?style=flat-square&color=0EA5E9&label=Followers)
 ![Stars](https://img.shields.io/github/stars/aymwvn?style=flat-square&color=0284C7&label=Stars)
