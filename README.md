@@ -7,11 +7,6 @@
 </a>
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=aymwvn&style=flat-square&color=38BDF8&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/aymwvn?style=flat-square&color=0EA5E9&label=Followers)
-![Stars](https://img.shields.io/github/stars/aymwvn?style=flat-square&color=0284C7&label=Stars)
-
 </div>
 
 ---
